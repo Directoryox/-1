@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Hotel.Entities;
+﻿using Hotel.Entities;
 using Hotel.Enums;
 using Hotel.Services;
 

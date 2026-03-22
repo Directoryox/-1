@@ -26,3 +26,4 @@ C:\Users\maxvo\OneDrive\Документы\-1\Hotel\Hotel\obj\Debug\net9.0\refin
 C:\Users\maxvo\OneDrive\Документы\-1\Hotel\Hotel\obj\Debug\net9.0\Hotel.pdb
 C:\Users\maxvo\OneDrive\Документы\-1\Hotel\Hotel\obj\Debug\net9.0\Hotel.genruntimeconfig.cache
 C:\Users\maxvo\OneDrive\Документы\-1\Hotel\Hotel\obj\Debug\net9.0\ref\Hotel.dll
+C:\Users\maxvo\OneDrive\Документы\-1\Hotel\Hotel\obj\Debug\net9.0\Hotel.sourcelink.json
